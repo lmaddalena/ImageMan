@@ -1,0 +1,3 @@
+ImageMan
+========
+Image Manipulation Example
